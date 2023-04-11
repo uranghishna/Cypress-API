@@ -3,7 +3,7 @@ describe('Auth module', () => {
         name: 'John Doe',
         email: 'john@nest.test',
         password: 'Secret_123'
-    }
+    } 
     
     describe('Register', () => {
         // 1. error validation (null name, email and password)
